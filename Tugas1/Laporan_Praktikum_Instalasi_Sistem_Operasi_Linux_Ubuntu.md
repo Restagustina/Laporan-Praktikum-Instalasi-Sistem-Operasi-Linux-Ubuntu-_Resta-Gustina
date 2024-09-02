@@ -11,7 +11,8 @@ Dr. Ahmad Zarkarsi, M. T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Sutarno, M.T.
 
-![Logo Universitas Sriwijaya](https://github.com/SyaifulKaromah/foto-repo/blob/afa46f9c1746a24004c7106948d9a7adcf28a5be/1639367926_61ac53fbb7fda3f5b72f.png)
+![Logo Universitas Sriwijaya](https://github.com/user-attachments/assets/779b597e-6a81-451b-b849-34d7648e8998)
+)
 
 *Disusun Oleh:*\
 Nama: Resta Gustina\
@@ -32,7 +33,7 @@ NIM : 09011282328110
 *[Pendahuluan](#pendahuluan)*
   > [Latar Belakang](#latar-belakang)\
   > [Tujuan](#tujuan)\
-  > [Dasar Teori](#landasan-teori)
+  > [Dasar Teori](#dasar-teori)
 
 > 
 *[Alat dan Bahan](#alat-dan-bahan)*
@@ -109,33 +110,41 @@ Pada praktikum kali ini kita menggunakan Sistem Operas Linux (Ubuntu 22.04 LTS).
 <div align="justify">
 
 1. Buka virtual box, pilih New
+   
+   ![Langkah 1](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/bukak%20vitual%20box.png)
+   
 2. Beri nama virtual yang akan dibuat, type dan versi, disini saya memberi nama Linux-Ubuntu
+   
+   ![Langkah 2](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/create%20virtual%20machine%202.png)
+   
 3. Kemudian pada Memory Size, kita setting memory yang akan kita sediakan
+
+   ![Langkah 3](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/memory%20size.png)
+   
 4. Kemudian pada Hard Disk File Type ubah pilih VHD (Virtual Hard Disk)
 
-   ![Langkah 4](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step4.png)
+   ![Langkah 4](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/hardisk%20file%20type.png)
 
 5. Lalu klik Next, dan pada File Location And Size setting sesuaikan space yang dibutuhkan
 
-   ![Langkah 5](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step5.png)
+   ![Langkah 5](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/file%20locatio%20and%20size.png)
 
 6. Pilih Create. Lalu, klik Optical Drive pada Storage virtual box untuk memasukkan file iso ubuntu nya
 
-   ![Langkah 6](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6.png)
+   ![Langkah 6](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/isi%20file%20iso%20ubuntu.png)
 
-   ![Langkah 6-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6-2.png)
+
 
 7. Tahap berikutnya yaitu instalasi ubuntu. Klik Star, setelah muncul menu Welcome Dan pilih bahasa instalasi dan bahasa sistem operasi kemudian klik option Install Ubuntu. Jika hanya ingin mencoba tanpa instalasi ubuntu, pilih option Try Ubuntu
 
-   ![Langkah 7](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step7.png)
 
 8. Pada tampilan berikutnya Installation Type, kita pilih Erase disk and install Ubuntu. Selanjutnya pilih Continue.
 
-   ![Langkah 8](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step8.png)
+   ![Langkah 8](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/installation%20type.png)
 
 9. Pada time zone pilih lokasi nya sesuai yang digunakan, kemudian pilih Continue
 
-    ![Langkah 9](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step9.png)
+    ![Langkah 9](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/tempat.png)
 
 10. Kemudian kita akan menginputkan username dan password yang digunakan utnuk login ke sistem operasi. Setelah selesai silakan klik Continue
     Pada pengaturan login sistem operasi, terdapat dua pilihan utama:\
@@ -143,23 +152,23 @@ Pada praktikum kali ini kita menggunakan Sistem Operas Linux (Ubuntu 22.04 LTS).
     •	"Require my password to log in" mengharuskan pengguna untuk melakukan verifikasi identitas sebelum dapat mengakses sistem. Saat komputer dihidupkan, layar login akan muncul, meminta pengguna untuk memasukkan nama pengguna dan kata sandi sebelum dapat melanjutkan ke antarmuka desktop.
 
 
-    ![Langkah 10](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step10.png)
+    ![Langkah 10](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/input%20nama%20dan%20password%20linux.png)
 
 11. Tahap selanjutnya adalah proses transfer dan instalasi file. File-file penting disalin ke lokasi yang tepat dalam sistem berkas, sementara komponen perangkat lunak diinstal dan diatur. Langkah ini menyiapkan sistem operasi agar berfungsi optimal setelah instalasi.
 
-![Langkah 11](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step11.png)
+![Langkah 11](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/copy%20ubuntu%20install.png)
 
 12. Setelah proses Installation Complete, klik Restart Now.
 
-![Langkah 12](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step12.png)
+![Langkah 12](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/restart%20ubuntu.png)
 
 13. Untuk masuk klik user pada sistem operasi, masukkan password yang telah di buat saat proses instalasi. Klik Enter
 
-![Langkah 13](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step13.png)
+![Langkah 13](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/loin%20menggunakan%20pw.png)
 
 14. Maka akan muncul tampilannya akan seperti pada gambar di bawah ini :
 
-![Langkah 14](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/loading.png)
+![Langkah 14](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/5e1891f268f8f841c6435f9486aaf6a32ef3d679/tampilan%20selesai%20desktop.png)
 
 
 <br>
@@ -267,7 +276,7 @@ Melalui praktikum ini, mahasiswa tidak hanya memperoleh pengetahuan teknis tenta
 
 ## Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi *mount point*?
 
-![Mount Point Selection](https://github.com/SyaifulKaromah/foto-repo/blob/e433532cee5da6d4afdc9639eebc9ae06a79300b/Mount.png)
+![Mount Point Selection](https://github.com/Restagustina/Laporan-Praktikum-Instalasi-Sistem-Operasi-Linux-Ubuntu-_Resta-Gustina/blob/ad289803a14b4fbcec16d937db26914cf67e987b/Tugas1/image.png)
 
 <br>
 
