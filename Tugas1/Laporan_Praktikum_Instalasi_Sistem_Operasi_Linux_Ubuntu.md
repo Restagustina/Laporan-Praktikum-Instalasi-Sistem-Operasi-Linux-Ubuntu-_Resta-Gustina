@@ -255,8 +255,9 @@ Melalui praktikum ini, mahasiswa tidak hanya memperoleh pengetahuan teknis tenta
 - Ubuntu Documentation. (2024). Official Ubuntu Documentation. https://help.ubuntu.com/
 - Ubuntu Documentation. (2024). Linux Filesystems (ext4, ext3, btrfs).
 - Sobell, M. G. (2021). A Practical Guide to Ubuntu Linux (5th ed.). Addison-Wesley.
-- Ryanal.Fians.2015.Makalah.Sistem.Operasi.Linux.Debian.[online]    http://ryanalfians.blogspot.co.id/2015/02/makalah-sistem-operasi-linux-debian-dan.html
-- Wildan.Faizzani.2011. perbedaan-fat-fat32-ntfs-ext2-ext3-dan-ext4.[Online].https://wildanfaizzani.wordpress.com/2011/03/18/perbedaan-fat-fat32-ntfs-ext2-ext3-dan-ext4.html
+- Canonical Ltd. (2024). Ubuntu Desktop for developers. https://ubuntu.com/desktop/developers
+
+
 
 </div>
 
